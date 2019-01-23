@@ -1,3 +1,6 @@
+### this is my assignment  to learn about react as a begineer .
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
